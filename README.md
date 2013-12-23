@@ -12,3 +12,5 @@ Implement this telephone app is quite easy.
 3. Learn about intent and Android telephone API.
 4. `Toast` anything you like.
 
+## Icon
+![kiic](https://raw.github.com/tobegit3hub/KiicCall/master/KiicCall/res/drawable-hdpi/kiic.png)
